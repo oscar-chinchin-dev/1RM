@@ -1,0 +1,35 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Cachés de Gradle
+.gradle/
+.gradle-user-home/
+**/build/
+
+# Configuración local
+local.properties
+.idea/
+*.iml
+
+# Archivos temporales
+*.lock
+*.log
+
+# Archivos sensibles
+.env
+.env.*
+*.jks
+*.keystore
